@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="template" version="3.8" client="site" method="upgrade">
     <name>Electrolux</name>
-    <version>1.0</version>
+    <version>1.1.1</version>
     <creationDate>01.02.2020</creationDate>
     <author>oleg</author>
     <authorEmail>your@email.com</authorEmail>
